@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 
-file_directory = "C:/Users/Wayne&May/Downloads/Research_table_data.csv"
+file_directory = f"C:/Users/{Name_of_user}/Downloads/Research_table_data.csv"
 
 #set font
 
