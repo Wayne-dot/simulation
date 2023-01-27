@@ -10,7 +10,7 @@ switch = []
 
 column_magnetic_number = 3
 
-files = glob.glob("C:/Users/Wayne&May/Desktop/Simulation/*.out")
+files = glob.glob(f"C:/Users/{Name_of_user}/Desktop/Simulation/*.out")
 #print(files)
 
 for file in files:
