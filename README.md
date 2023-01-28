@@ -1,7 +1,5 @@
-# Simulation
+# Mumax3 Simulation
 
-Refercne https://mumax.github.io/. 
-
-Mumax3 simulation script. 
+Mumax3 simulation script. Refercne https://mumax.github.io/. 
 
 These are code that I wrote to wrote MuMax3 simulation
